@@ -1,0 +1,11 @@
+D:\Visual Project\CheckSpell\CheckSpell\CheckSpell\bin\Debug\CheckSpell.exe.config
+D:\Visual Project\CheckSpell\CheckSpell\CheckSpell\bin\Debug\CheckSpell.exe
+D:\Visual Project\CheckSpell\CheckSpell\CheckSpell\bin\Debug\CheckSpell.pdb
+D:\Visual Project\CheckSpell\CheckSpell\CheckSpell\obj\Debug\CheckSpell.csprojAssemblyReference.cache
+D:\Visual Project\CheckSpell\CheckSpell\CheckSpell\obj\Debug\CheckSpell.Form1.resources
+D:\Visual Project\CheckSpell\CheckSpell\CheckSpell\obj\Debug\CheckSpell.Properties.Resources.resources
+D:\Visual Project\CheckSpell\CheckSpell\CheckSpell\obj\Debug\CheckSpell.csproj.GenerateResource.cache
+D:\Visual Project\CheckSpell\CheckSpell\CheckSpell\obj\Debug\CheckSpell.csproj.CoreCompileInputs.cache
+D:\Visual Project\CheckSpell\CheckSpell\CheckSpell\obj\Debug\CheckSpell.exe
+D:\Visual Project\CheckSpell\CheckSpell\CheckSpell\obj\Debug\CheckSpell.pdb
+D:\Visual Project\CheckSpell\CheckSpell\CheckSpell\obj\Debug\CheckSpell.Form2.resources
